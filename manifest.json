@@ -1,0 +1,8 @@
+{
+    "domain": "timandes",
+    "name": "Timandes White",
+    "documentation": "https://github.com/php-zookeeper/php-zookeeper",
+    "requirements": [],
+    "codeowners": ["@Timandes"],
+    "version": "0.0.1"
+  }
